@@ -1,5 +1,0 @@
-PyQt5>=5.15.10
-pycaw>=20230407
-psutil>=5.9.6
-comtypes>=1.2.0
-PyInstaller>=6.10.0

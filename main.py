@@ -31,7 +31,10 @@ def get_default_config():
     return {
         'default_volume': 50,
         'auto_control_enabled': True,
-        'monitored_apps': {},
+        'blacklisted_apps': [],
+        'whitelisted_apps': [],
+        'list_mode': 'blacklist',
+        'presets': {},
         'theme': 'light'
     }
 

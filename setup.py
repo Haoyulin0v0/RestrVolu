@@ -26,6 +26,7 @@ setup(
         'pycaw==20230407',
         'psutil==5.9.6',
         'comtypes==1.2.0',
+        'keyboard>=0.13.5',
     ],
     extras_require={
         'dev': [
